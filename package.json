@@ -1,0 +1,26 @@
+{
+  "name": "tail-call-optimization",
+  "version": "1.0.0",
+  "description": "tail call optimization for TS",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsezol/tail-call-optimization.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsezol/tail-call-optimization/issues"
+  },
+  "homepage": "https://github.com/vsezol/tail-call-optimization#readme",
+  "keywords": [
+    "tail",
+    "call",
+    "optimization",
+    "ts",
+    "js"
+  ]
+}
