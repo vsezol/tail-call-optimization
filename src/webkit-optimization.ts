@@ -1,4 +1,4 @@
-// not optimized :(
+// works only in safari with 'use strict' :(
 
 export const calc: (x: number) => number = (() => {
   const _calc = (acc: number, x: number): number => {
